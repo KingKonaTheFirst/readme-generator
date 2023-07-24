@@ -1,29 +1,27 @@
-# Test project
+# README Generator
 
 ![Badge for License](https://shields.io/badge/license-MIT-purple.svg)
 
 ## Descriptions
 
-undefined
+This is a small lightweight app that allows you to quickly and easily build a good and proper readme file simply from your terminal in your vs code.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Examples](#examples)
-- [Contributing](#contributing)
+- [Contributing](#contributors)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Installation
 
-npm install
+you need iquirer 8.2.4
 
 ## usage
 
-run in terminal with node js
+go into your terminal within vs code or git bash and type in node index.js while in the correct folder. then answer all the prompts
 
 ## License
 
@@ -31,13 +29,13 @@ https://mit-license.org/
 
 ## Contributors
 
-Me
+Kona(Landon)
 
 ## Tests
 
-n/a
+N/A
 
 ## Contact me
 
-https.github.com/Kingkonathefirst
-landon.deroin@gmai.com
+https.github.com/KingKonaTheFirst
+landon.deroin@gmail.com
